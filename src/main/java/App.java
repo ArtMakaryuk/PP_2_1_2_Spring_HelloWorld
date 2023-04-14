@@ -18,7 +18,5 @@ public class App {
         System.out.println(bean.equals(bean2));
         System.out.println(catBean1.equals(catBean2));
 
-        System.out.println("Привет Елена");
-
     }
 }
